@@ -27,7 +27,7 @@ def about():
 
 
 ###
-# The functions below should be applicable to all Flask apps.
+# The functions below should be applicable to All Flask apps.
 ###
 
 
